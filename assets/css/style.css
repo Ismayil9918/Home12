@@ -1,0 +1,42 @@
+:root{
+    background:purple;
+}
+caption{
+    color: white;
+}
+.room{
+    background-color: maroon;
+    color: white;
+
+}
+.door{
+    background-color: teal;
+    color:white;
+}
+.close{
+    background-color: maroon;
+    color: white;
+}
+.open{
+    background-color:teal;
+    color: white;
+}
+.exit{
+    background-color: maroon;
+    color: white;
+}
+.q{
+    background-color: white;
+}
+.w{
+    background-color: white;
+}
+.e{
+    background-color: white;
+}
+.r{
+    background-color: white;
+}
+.t{
+    background-color: white;
+}
